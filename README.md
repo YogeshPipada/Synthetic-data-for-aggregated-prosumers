@@ -15,7 +15,7 @@ https://arxiv.org/abs/2601.14663 for details and context.
 This data was used to train the proposed hybrid MCD-CP framework for predicting flexibility, using the methodology presented in Section 4. Mathematical notation used for this set was $\mathcal{D}$ in the manuscript.
 
 **After extraction:**
-MCD_CP_training_data/
+MCD_CP_training_data/ <br>
 ├── MCD_CP_training_data.csv
 
 **Data characteristics:**
@@ -31,7 +31,7 @@ MCD_CP_training_data/
 This data was used to evaluate the aggregator's business model and produce the results in Section 5.2. Mathematical notation used for this set was $\mathcal{D}_{\beta}$ in the manuscript.
 
 **After extraction:**
-Business_model_test_dataset/
+Business_model_test_dataset/ <br>
 ├── Business_model_test_dataset.csv
 
 - **Format:** CSV  
