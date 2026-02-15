@@ -16,7 +16,7 @@ This data was used to train the proposed hybrid MCD-CP framework for predicting 
 
 **After extraction:**
 MCD_CP_training_data/ <br>
-├── MCD_CP_training_data.csv
+└── MCD_CP_training_data.csv
 
 **Data characteristics:**
 
@@ -32,7 +32,7 @@ This data was used to evaluate the aggregator's business model and produce the r
 
 **After extraction:**
 Business_model_test_dataset/ <br>
-├── Business_model_test_dataset.csv
+└── Business_model_test_dataset.csv
 
 - **Format:** CSV  
 - **Time resolution:** hourly, each hour is treated as a separate column
