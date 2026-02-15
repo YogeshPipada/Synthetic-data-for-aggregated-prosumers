@@ -3,9 +3,9 @@ This repository contains the synthetic datasets generated and used in the study 
 https://arxiv.org/abs/2601.14663 for details and context.
 
 ## Repository Structure
-├── Business_model_test_data.zip \n
-├── LICENSE \n
-├── MCD_CP_training_data.zip \n
+├── Business_model_test_data.zip <br>
+├── LICENSE <br>
+├── MCD_CP_training_data.zip <br>
 └── README.md 
 
 
